@@ -1,55 +1,28 @@
-# react-two-effects-vite
-This React application displays a random cat fact along with a corresponding image generated based on the first word of the fact. It utilizes the https://catfact.ninja/fact and https://cataas.com/cat/says APIs to retrieve data and generate image URLs dynamically.
+Marvel Characters
+Este proyecto de React muestra un personaje aleatorio de Marvel junto con su imagen correspondiente. Utiliza la API pública de Marvel para obtener datos sobre los personajes y mostrar una imagen de un personaje aleatorio.
 
-## Random Cat Fact with Personalized Image
+Funcionalidades:
+Muestra un personaje aleatorio de Marvel junto con su imagen.
+Permite al usuario seleccionar un personaje aleatorio con solo pulsar un botón.
+Tecnologías:
+React
+Fetch API
+md5 para la generación de hashes para la autenticación con la API de Marvel
+Instalación:
+Clona el repositorio.
+Instala las dependencias: npm install
+Ejecuta el servidor de desarrollo: npm start
+Uso:
+Abre http://localhost:3000 en tu navegador para ver la aplicación en acción.
 
-This React application displays a random cat fact along with a corresponding image generated based on the first word of the fact. It utilizes the `https://catfact.ninja/fact` and `https://cataas.com/cat/says` APIs to retrieve data and generate image URLs dynamically.
+Desarrollo:
+Para el desarrollo, ejecuta npm start.
+Los cambios de código se reflejarán automáticamente en el navegador.
+Contribución:
+¡Las solicitudes de extracción son bienvenidas! Por favor, sigue las pautas de contribución descritas en el archivo CONTRIBUTING.md (si está provisto).
 
-**Features:**
+Licencia:
+Licencia MIT (consulte el archivo LICENSE para obtener más detalles).
 
-* Fetches and displays a random cat fact.
-* Generates a unique cat image based on the first word of the fact.
-* Handles errors gracefully and provides informative messages.
-* Uses descriptive variable names for better code readability.
-
-**Technologies:**
-
-* React
-* Fetch API
-* `https://catfact.ninja/fact` API
-* `https://cataas.com/cat/says` API
-
-**Additional Notes:**
-
-* This code can be customized further to add features like caching, loading indicators, and social media sharing buttons.
-* Feel free to contribute to this project by adding pull requests with further improvements!
-
-**Installation:**
-
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Run the development server: `npm start`
-
-**Usage:**
-
-Open `http://localhost:5173` in your browser to see the application in action.
-
-**Development:**
-
-* For development, run `npm start`.
-* Code changes will be reflected automatically in the browser.
-
-**Contribution:**
-
-Pull requests are welcome! Please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file (if provided).
-
-**License:**
-
-MIT License (see `LICENSE` file for details).
-
-**Keywords:**
-
-cat fact, cat image, React, API, humor
-# React-two-effects-vite_personajeFavoritoMarvelApi
-# React-two-effects-vite_personajeFavoritoMarvelApi
-# React-two-effects-vite_personajeFavoritoMarvelApi
+Palabras clave:
+Marvel, personajes, API, React
