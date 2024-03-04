@@ -26,3 +26,5 @@ Licencia MIT (consulte el archivo LICENSE para obtener más detalles).
 
 Palabras clave:
 Marvel, personajes, API, React
+
+![image](https://github.com/omarhernandezrey/33.2-React-two-effects-vite_personajeFavoritoMarvelApi.io/assets/103592862/a116fb8b-9d50-4ffd-a6ba-90c44c3e218d)
